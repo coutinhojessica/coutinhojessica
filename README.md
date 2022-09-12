@@ -4,6 +4,8 @@
 - 🌱 No momento estudo: JavaScript e Git.
 - 😄 Pronouns: Ela/Dela.
 
+##
+
 <div align="center">
   <a href="https://github.com/coutinhojessica">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coutinhojessica&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -18,7 +20,7 @@
  <hr>
  <div> 
  <a href="https://instagram.com/jessicamaiara.coutinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jessicacoutinho.developer@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jessicacoutinho.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessica-maiara-46bb0a202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/maiafigueiredoc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="tel:+5583986522615" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
