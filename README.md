@@ -1,4 +1,4 @@
-### Olá! Eu sou a Jéssica Coutinho  
+### Olá! Eu sou Jéssica Coutinho  
 
 - 🔭 Estou buscando ser front-end.
 - 🌱 No momento estudo: JavaScript e Git.
