@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jéssica Coutinho  
 
 - 🔭 Estou buscando ser front-end.
-- 🌱 No momento estudo: JavaScript, PHP e GiT.
+- 🌱 No momento estudo: JavaScript, Banco de dados, PHP e GiT.
 - 😄 Pronouns: Ela/Dela.
 
 ##
