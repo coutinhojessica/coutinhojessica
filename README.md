@@ -60,21 +60,23 @@ Me chamo Jéssica, tenho 30 anos e sou natural da Paraíba. Concluí o ensino su
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api?username=coutinhojessica&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=coutinhojessica&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinhojessica&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
 <br>
 <br>
+
 ---
+
  <div> 
  <a href="https://instagram.com/jessicamaiara.coutinho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessicacoutinho.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
