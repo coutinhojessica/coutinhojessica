@@ -1,17 +1,33 @@
-<h2 align="center">Hi 👋! My name is Jessica and I'm a frontend developer, from Paraíba, Brasil.</h2>
+<h>My name is Jessica and I'm a frontend developer, from Paraíba, Brasil.</h2>
 
-###
+---
 
 <p align="center">My name is Jessica, I am 30 years old, and I am from Paraíba. I completed my higher education at Faculdade Estácio de Sá. I graduated in 2018 with a degree in Systems Analysis and Development. I am passionate about technology and am always looking to improve my knowledge.</p>
 
-###
+---
 
+## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coutinhojessica&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coutinhojessica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coutinhojessica&bg_color=0f172a&color=6d5ef8&line=f472b6&point=38bdf8&area=true&hide_border=true" width="100%"/>
+
 </div>
 
-###
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coutinhojessica&theme=radical" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coutinhojessica&theme=radical" height="160em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coutinhojessica&theme=radical" height="160em"/>
+
+</div>
+
+---
 
 <h2 align="center">I code with</h2>
 
@@ -47,4 +63,3 @@
   </a>
 </div>
 
-###
